@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LTGJ:jar">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="LTGJ.jar">
+      <element id="module-output" name="LTGJ" />
+      <element id="library" level="project" name="Maven: org.json:json:20200518" />
+    </root>
+  </artifact>
+</component>
